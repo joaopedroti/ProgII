@@ -1,0 +1,31 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+
+
+void saudacao()
+{
+		
+	char mensagem[10] = "Boa noite";
+	
+	
+
+	
+	
+}
+
+
+int main (){
+	
+	char mensagem;
+
+	mensagem();
+
+	
+	
+	system("pause");
+	return 0;
+	
+	
+	
+}
