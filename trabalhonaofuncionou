@@ -1,0 +1,20 @@
+#include<stdio.h>
+
+void saudacao(void)
+
+main (){
+
+
+	
+	
+	saudacao();
+}
+
+void saudacao(void)
+{
+	
+	
+	printf("Boa noite.\n");
+}
+
+// NÃO FUNCIONOU 
