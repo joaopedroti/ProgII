@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+void alo(void);
+ main ()
+ 
+ {
+ 	
+ 	alo();
+ 	
+ }
+ 
+ void alo(void)
+ {
+ 	
+ 	printf("Boa noite\n");
+ }
